@@ -1,5 +1,3 @@
-import Image from "next/image";
-import main from "../../../Public/images/main.jpg"
 export default function Introduction() {
     return (
         <div className="introduction">

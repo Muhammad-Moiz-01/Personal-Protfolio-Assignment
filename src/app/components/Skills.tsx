@@ -1,9 +1,7 @@
 import Image from "next/image";
-import main from "../../../Public/images/main.jpg"
 import tslogo from "../../../Public/images/tslogo.png"
 import csslogo from "../../../Public/images/csslogo.png"
 import htmllogo from "../../../Public/images/htmllogo.png"
-import htmllogo2 from "../../../Public/images/htmllogo2.png"
 import Nextlogo from "../../../Public/images/nextlogo.png"
 export default function Skils() {
     return (

@@ -1,9 +1,3 @@
-import Image from "next/image";
-import main from "../../../Public/images/main.jpg"
-import tslogo from "../../../Public/images/tslogo.png"
-import pcard1netflix from "../../../Public/images/pcard1netflix.png"
-import discord from "../../../Public/images/discordlogoprojects.png"
-import amazonlogo from "../../../Public/images/amazonlogo.png"
 export default function Projects() {
     return (
         <div className="Projects-section">

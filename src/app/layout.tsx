@@ -2,10 +2,6 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import Header from "@/app/components/Header"
-import Hero from "@/app/components/Hero"
-import Introduction from "@/app/components/Introduction";
-import Skills from "@/app/components/Skills"
-import Projects from "@/app/components/Projects"
 import Footer from "@/app/components/Footer"
 import "bootstrap-icons/font/bootstrap-icons.css"
 
