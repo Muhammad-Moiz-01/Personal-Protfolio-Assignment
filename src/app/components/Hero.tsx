@@ -8,7 +8,7 @@ export default function Hero() {
                 <Image src={main} alt="Moiz" height={581} width={437} className="img" />
             </div>
             <div className="text-div">
-                <h1 className="its-hammad">Hi, It's <span>Moiz</span></h1>
+                <h1 className="its-moiz">Hi, It's <span>Moiz</span></h1>
                 <h1 className="p-2">I'm a <span>Developer</span></h1>
                 {/* <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. <br />
                     s labore dolores esse. Odit similique doloribus tenetur dolo <br /> remque, sunt commodi in ipsa repu
